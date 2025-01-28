@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error and its solution. The `bug.vbs` file contains code that throws a 'Type mismatch' error when an empty parameter is passed to a function.  The `bugSolution.vbs` file provides an improved version with more robust parameter handling.
